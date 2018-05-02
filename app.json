@@ -1,0 +1,8 @@
+{
+	"name": "Point Production Bot",
+	"description": "for Point production bot www.point-production.com/bots",
+	"repository": "https://github.com/jfcabaluna24/point-productions",
+	"logo": "",
+	"keywords": ["node", "express", "http", "request", "body-parser"],
+	"image": "heroku/nodejs"
+}
